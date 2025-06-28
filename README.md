@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m iDucky 👋
 
-<!--
-**i-duckyy/i-duckyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer programmer and mod creator**, passionate about gaming mod development, community engagement, and clean code. I enjoy experimenting with interactive mods and sharing them with the world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- **Languages**: C#, JavaScript, Python, HTML, CSS, JS and Scratch
+- **Engines & Modding**: Unity, BepInEx, Docker/CLI tooling  
+- **Tools**: Git/GitHub, macro automation  
+
+---
+
+## 🤝 Connect & Contribute
+
+- **GitHub**: Open to issues, pull requests, or feature suggestions
+
+---
+
+## 📈 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=i-duckyy&show_icons=true)](https://github.com/i-duckyy)
