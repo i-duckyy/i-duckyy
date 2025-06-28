@@ -12,12 +12,6 @@
 
 ---
 
-## 🤝 Connect & Contribute
-
-- **GitHub**: Open to issues, pull requests, or feature suggestions
-
----
-
 ## 📈 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=i-duckyy&show_icons=true)](https://github.com/i-duckyy)
