@@ -1,4 +1,4 @@
-# Hi, I’m iDucky 👋
+# Hi, I’m `ImDucky` 👋
 
 **Computer programmer and mod creator**, passionate about gaming mod development, community engagement, and clean code. I enjoy experimenting with interactive mods and sharing them with the world.
 
