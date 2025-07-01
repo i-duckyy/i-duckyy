@@ -14,5 +14,5 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=i-duckyy&show_icons=true&theme=great-gatsby&show=prs_merged)](https://github.com/i-duckyy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-duckyy&theme=great-gatsby)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=im-ducky&show_icons=true&theme=great-gatsby&show=prs_merged)](https://github.com/i-duckyy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ducky&theme=great-gatsby)
