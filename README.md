@@ -29,3 +29,4 @@
 ## 🗂️ Repositories Showcase
 
 [![WebTools](https://github-readme-stats.vercel.app/api/pin/?username=im-ducky&repo=WebTools&theme=great-gatsby)](https://github.com/im-ducky/WebTools)
+[![WebTools](https://github-readme-stats.vercel.app/api/pin/?username=im-ducky&repo=QuackersPlugin&theme=great-gatsby)](https://github.com/im-ducky/QuackersPlugin)
