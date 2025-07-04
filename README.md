@@ -13,7 +13,7 @@
 ---
 
 ## 🔗 Connect With Me
-[![Discord](https://img.shields.io/badge/Discord-ImDucky%230000-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1318986103025565779)
+[![Discord](https://img.shields.io/badge/Discord-im.ducky%230000-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1318986103025565779)
 [![GitHub](https://img.shields.io/badge/GitHub-im--ducky-181717?logo=github&logoColor=white)](https://github.com/im-ducky)
 
 ---
