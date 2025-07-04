@@ -20,12 +20,12 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=im-ducky&show_icons=true&layout=compact&theme=great-gatsby&hide=contribs&show=prs_merged)](https://github.com/im-ducky)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ducky&layout=compact&theme=great-gatsby)](https://github.com/im-ducky)
-[![GitHub Streak](https://streak-stats.demolab.com?user=im-ducky&layout=compact&theme=great-gatsby&hide_border=true)](https://github.com/im-ducky)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=im-ducky&show_icons=true&theme=great-gatsby&hide=contribs&show=prs_merged)](https://github.com/im-ducky)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ducky&theme=great-gatsby)](https://github.com/im-ducky)
+[![GitHub Streak](https://streak-stats.demolab.com?user=im-ducky&theme=great-gatsby&hide_border=true)](https://github.com/im-ducky)
 
 ---
 
 ## 🗂️ Repositories Showcase
 
-[![WebTools](https://github-readme-stats.vercel.app/api/pin/?username=im-ducky&repo=WebTools&layout=compact&theme=great-gatsby)](https://github.com/im-ducky/WebTools)
+[![WebTools](https://github-readme-stats.vercel.app/api/pin/?username=im-ducky&repo=WebTools&theme=great-gatsby)](https://github.com/im-ducky/WebTools)
